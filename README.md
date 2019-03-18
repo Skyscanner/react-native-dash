@@ -5,7 +5,7 @@ A super simple `<Dash />` component for react-native to draw customisable dashed
 
 ## Installation
 ```sh
-npm i --save react-native-dash
+npm i --save @skyscanner/react-native-dash
 ```
 
 ## Props
@@ -23,7 +23,7 @@ npm i --save react-native-dash
 
 ## Usage
 ```javascript
-import Dash from 'react-native-dash';
+import Dash from '@skyscanner/react-native-dash';
 
 //draws a horizontal dashed line with defaults. Also works with flex
 render() {
